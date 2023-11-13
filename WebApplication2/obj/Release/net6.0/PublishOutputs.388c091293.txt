@@ -1,0 +1,11 @@
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.exe
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.dll
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.deps.json
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.runtimeconfig.json
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.pdb
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects C#\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
